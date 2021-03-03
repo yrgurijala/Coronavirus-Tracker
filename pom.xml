@@ -14,7 +14,7 @@
 	<name>Coronavirus-Tracker</name>
 	<description>Tracking the number of cases reported across the globe</description>
 	<properties>
-		<java.version>15</java.version>
+		<java.version>11</java.version>
 	</properties>
 
 	<dependencies>
